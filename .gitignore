@@ -1,4 +1,4 @@
-# Python
+OB# Python
 *.pyc
 *.pyo
 __pycache__/
@@ -32,3 +32,9 @@ Thumbs.db
 *.coverage
 coverage.xml
 *.egg-info/
+
+Oa023568910@
+Oa023568910@.pub
+cgv_key
+cgv_key.pub
+
